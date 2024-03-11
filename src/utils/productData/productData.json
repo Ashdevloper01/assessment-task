@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "category_name": "Phones",
+    "devices_count": "200 + iPhone 6 and 2.5k other",
+    "children": [
+      {
+        "id": 2,
+        "brand_name": "Apple",
+        "children": [
+          {
+            "id": 3,
+            "model_name": "iPhone 6",
+            "children": [
+              {
+                "id": 4,
+                "variant_name": "128GB",
+                "devices_count": 200,
+                "model_id": 3
+              },
+              {
+                "id": 5,
+                "variant_name": "256GB",
+                "devices_count": 100,
+                "model_id": 3
+              },
+              {
+                "id": 6,
+                "variant_name": "512GB",
+                "devices_count": 50,
+                "model_id": 3
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "model_name": "iPhone 12",
+            "children": [
+              {
+                "id": 8,
+                "variant_name": "128GB",
+                "devices_count": 22,
+                "model_id": 7
+              },
+              {
+                "id": 9,
+                "variant_name": "264GB",
+                "devices_count": 122,
+                "model_id": 7
+              },
+              {
+                "id": 10,
+                "variant_name": "512GB",
+                "devices_count": 321,
+                "model_id": 7
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "brand_name": "Samsung",
+        "devices_count": "500 + Galaxy and 2.5k other",
+        "children": [
+          {
+            "id": 12,
+            "model_name": "Galaxy S7",
+            "children": [
+              {
+                "id": 13,
+                "variant_name": "128GB",
+                "devices_count": 122,
+                "model_id": 11
+              }
+            ]
+          },
+          {
+            "id": 14,
+            "model_name": "Samsung M1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "category_name": "Computers",
+    "devices_count": "200 + mac books, and PCs",
+    "children": [
+      {
+        "id": 16,
+        "brand_name": "MacBook"
+      },
+      {
+        "id": 17,
+        "brand_name": "Dell XPS"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "category_name": "Watches",
+    "devices_count": "150+ apple watches, and 200+ samsung watches",
+    "children": [
+      {
+        "id": 19,
+        "brand_name": "Apple"
+      },
+      {
+        "id": 20,
+        "brand_name": "Samsung"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "category_name": "TVs",
+    "devices_count": "20+ samsung TVs, and 50+ Apple TVs",
+    "children": [
+      {
+        "id": 22,
+        "brand_name": "Samsung"
+      },
+      {
+        "id": 23,
+        "brand_name": "Apple"
+      }
+    ]
+  }
+]
